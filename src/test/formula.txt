@@ -1,0 +1,10 @@
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+A = \pi r^2
+a^2 + b^2 = c^2
+d = \sqrt{(x2 - x1)^2 + (y2 - y1)^2}
+\frac{df}{dx} = \lim_{h\to0} \frac{f(x+h) - f(x)}{h}
+\int_a^b f(x)dx
+A = \frac{1}{2}bh
+s = \sqrt{\frac{\sum_{i=1}^{n}(x_i - \bar{x})^2}{n-1}}
+V = \frac{4}{3}\pi r^3
+\frac{2}{3}
